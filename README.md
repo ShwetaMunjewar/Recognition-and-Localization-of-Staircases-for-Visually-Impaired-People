@@ -1,0 +1,4 @@
+# Recognition-and-Localization-of-Staircases-for-Visually-Impaired-People
+
+The "Recognition-and-Localization-of-Staircases-for-Visually-Impaired-People" project aims to address a critical aspect of the visually impaired community's mobility – the safe detection and localization of staircases. Navigating staircases can be particularly challenging for individuals with visual impairments, as they heavily rely on other senses and cues to move around unfamiliar environments.
+To tackle this issue, the project utilizes the versatile and affordable Raspberry Pi, a credit-card-sized computer, along with computer vision techniques. By leveraging computer vision algorithms and a camera module, the Raspberry Pi can identify staircases in real-time images, providing valuable information to the visually impaired users.
